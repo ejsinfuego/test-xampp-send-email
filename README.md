@@ -1,3 +1,4 @@
+
 ***make sure to turn off the apache server first***
 ### php.ini configuration
 
@@ -38,3 +39,6 @@ The following configuration is recommended for the php.ini file:
  - go to security settings and create an app password
  - it will create a 16 character password where you gonna use in the sendmail.ini file
 
+
+Contributions, issues, and feature requests are welcome!
+Give a ⭐️ if you like this project!
