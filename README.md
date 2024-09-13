@@ -41,4 +41,5 @@ The following configuration is recommended for the php.ini file:
 
 
 Contributions, issues, and feature requests are welcome!
+
 Give a ⭐️ if you like this project!
