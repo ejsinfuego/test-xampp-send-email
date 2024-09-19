@@ -41,6 +41,19 @@ The following configuration is recommended for the php.ini file:
 
 ***start the apache server***
 
+### config in laravel
+
+```
+MAIL_MAILER=smtp
+MAIL_HOST=smtp.gmail.com
+MAIL_PORT=587
+MAIL_USERNAME=youremail@gmail.com
+MAIL_PASSWORD=passwordfromgmail
+MAIL_ENCRYPTION=tls
+MAIL_FROM_ADDRESS="youremail@gmail.com"
+MAIL_FROM_NAME="${APP_NAME}"
+```
+
 Contributions, issues, and feature requests are welcome!
 
 Give a ⭐️ if you like this project!
